@@ -1,0 +1,55 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('cool-background.png');
+    width:100%;
+     background-repeat: no-repeat;
+     background-size: 100%;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    }
+
+.container1{
+    
+    margin:auto;
+    
+    
+}
+.w3-btn
+{width:200px;
+ background-color: cornflowerblue;
+ border:5px;
+ border-color:blue;
+ height:35px;
+ color: white;
+ text-align: center;
+ font-size: 19px;
+ font-family: 'Caveat', cursive;
+ padding:5px 5px 5px 5px;
+
+}
+
+.table1{
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th,tr,td {
+    text-decoration-color: white;
+    padding: 15px;
+    height:auto;
+    width:auto;
+    text-align: left;
+    
+    border-bottom: 1px solid #ddd;
+}
+
+th{
+    text-align: center;
+}
+
